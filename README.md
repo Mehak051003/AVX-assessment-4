@@ -92,7 +92,8 @@ Once the contract is deployed, you can interact with it by calling the sayHello 
 # Proof of work as the Fuji Contract detail
 
 Contract Address is provided as Application id as well
-![alt text](image.png)
+![image](https://github.com/Mehak051003/AVX-assessment-4/assets/118992603/73f96dce-7501-42b6-897c-0d4c0c83c5f1)
+
 
 
 ## Authors
